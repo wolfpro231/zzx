@@ -1,0 +1,6 @@
+owner=483659658461052928
+prefix=T
+game= Thelp _ Tplay
+stayinchannel=true
+songinstatus=false
+token=NTU0Mzc1MDcxOTc2NzgzODc0.XNa69g.o1tsjxEsTbTbVg7yp64LsSVLr1E
